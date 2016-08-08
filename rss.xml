@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[The HuB]]></title>
-        <description><![CDATA[The HuB]]></description>
+        <title><![CDATA[on fire]]></title>
+        <description><![CDATA[on fire]]></description>
         <link>https://thegrid.ai/the-hub/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 08 Aug 2016 17:25:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Aug 2016 21:29:33 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/the-hub/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Venturing into the unknown…]]></title>
+            <description><![CDATA[<article><h1>Venturing into the unknown…</h1><p>In science we are constantly struggling to expand the knowledge of humanity. To step out of the circle of the “status quo” of knowledge means to venture into unknown territory and chart it. Such venturing guarantees unexpected struggles but also offers hope for life-long fame. What will you find? Fame? Frustration? …or maybe just what you expected? Scientists are able to design highly complex hypothesis-driven experiments, like the recent quest for the Higgs Boson, just to prove that they already knew what would await them in the uncharted territory. However many unexpected results discovered by descriptive works are the true game changers. Both approaches can yield extremely valuable insights and are best combined. In the end their common ground, their motivation is the longing for knowing what lies beyond.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/205c5c72-83c4-4c4d-b7a0-b35a0e57f71e.jpg"></article>]]></description>
+            <link>https://thegrid.ai/the-hub/venturing-into-the-unknown/index.html</link>
+            <guid isPermaLink="false">24a4cd41-98fa-452b-ad08-fc9d219c1b0d</guid>
+            <pubDate>Mon, 08 Aug 2016 21:29:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Ars VR headset showdown-Oculus Rift vs. HTC Vive]]></title>
             <description><![CDATA[<article><h1>The Ars VR headset showdown-Oculus Rift vs. HTC Vive</h1><p>In our original reviews of the Oculus Rift and the HTC Vive, we tried very hard to examine these virtual reality systems on their own merits without constant comparisons to the competition. But no product exists in a vacuum. After years of buildup, we're now faced with two competitive, PC-tethered VR headsets hitting the market right next to each other.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a473611978ca4931a0d74678d9cd4a6eaafdb8a9.jpg"></article>]]></description>
