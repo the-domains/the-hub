@@ -11,6 +11,9 @@ color:
     - '#F3FFE2'
     - '#EB7F00'
 layout_spectrum: 0.7736632900778204
+author:
+  name: Oliver Wüseke
+  email: ''
 name: The HuB
 title: on fire
 description: neuronal networks in human cerebral organoids
