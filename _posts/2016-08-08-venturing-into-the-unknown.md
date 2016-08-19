@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-08-19T14:04:27.764Z'
+datePublished: '2016-08-19T14:32:45.351Z'
 sourcePath: _posts/2016-08-08-venturing-into-the-unknown.md
 author: []
 via: {}
-dateModified: '2016-08-19T14:04:27.289Z'
+dateModified: '2016-08-19T14:32:44.574Z'
 title: Venturing into the unknown…
 publisher: {}
 description: >-
@@ -11,17 +11,15 @@ description: >-
   To step out of the circle of the “status quo” of knowledge means to venture
   into unknown territory and chart it. Such venturing guarantees unexpected
   struggles but also offers hope for life-long fame. What will you find? Fame?
-  Frustration? …or maybe just what you expected?  Scientists are able to design
+  Frustration? …or maybe just what you expected? Scientists are able to design
   highly complex hypothesis-driven experiments, like the recent quest for the
   Higgs Boson, just to prove that they already knew what would await them in the
   uncharted territory. However many unexpected results discovered by descriptive
-  works are the true game changers.  Both approaches can yield extremely
-  valuable insights and are best combined. In the end their common ground, their
+  works are the true game changers. Both approaches can yield extremely valuable
+  insights and are best combined. In the end their common ground, their
   motivation is the longing for knowing what lies beyond.
-starred: false
-inFeed: true
 hasPage: true
-inNav: false
+starred: false
 url: venturing-into-the-unknown/index.html
 _context: 'http://schema.org'
 _type: Article
