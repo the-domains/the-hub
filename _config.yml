@@ -15,5 +15,9 @@ author:
   name: Oliver Wüseke
   email: ''
 name: The HuB
+navigation:
+  - name: The Ars VR headset showdown-Oculus Rift vs. HTC Vive
+    id: 1e484426-a5b7-4d1c-84b6-0b01773bd106
+    type: content
 title: on fire
 description: neuronal networks in human cerebral organoids
