@@ -1,8 +1,9 @@
 ---
-datePublished: '2016-08-08T21:29:29.607Z'
+datePublished: '2016-08-19T14:04:27.764Z'
+sourcePath: _posts/2016-08-08-venturing-into-the-unknown.md
 author: []
 via: {}
-dateModified: '2016-08-08T21:29:12.439Z'
+dateModified: '2016-08-19T14:04:27.289Z'
 title: Venturing into the unknown…
 publisher: {}
 description: >-
@@ -18,7 +19,6 @@ description: >-
   valuable insights and are best combined. In the end their common ground, their
   motivation is the longing for knowing what lies beyond.
 starred: false
-sourcePath: _posts/2016-08-08-venturing-into-the-unknown.md
 inFeed: true
 hasPage: true
 inNav: false
